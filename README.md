@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <a href="https://ghanshyam-melkunde.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ghanshyam+Melkunde;Senior+Backend+Engineer;6.5%2B+years+of+experience;Scalable+Systems+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ghanshyam+Melkunde;Senior+Backend+Engineer;7%2B+years+of+experience;Scalable+Systems+Specialist" alt="Typing SVG" />
   </a>
 </h1>
 
