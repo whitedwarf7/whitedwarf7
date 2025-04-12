@@ -11,7 +11,7 @@
   <a href="mailto:ghmelkunde@gmail.com">
     <img src="https://img.shields.io/badge/-Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA">
   </a>
-  <a href="https://ghanshyam-melkunde.github.io">
+  <a href="https://whitedwarf7.github.io/ghanshyam-melkunde.github.io/portfolio-website.html">
     <img src="https://img.shields.io/badge/-Portfolio-0A192F?style=for-the-badge&logo=react&logoColor=64FFDA">
   </a>
 </p>
